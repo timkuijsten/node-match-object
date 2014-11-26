@@ -1,0 +1,27 @@
+{
+  "name": "match-object",
+  "version": "0.0.1",
+  "author": {
+    "name": "Tim Kuijsten",
+    "email": "tim@netsend.nl",
+    "url": "https://github.com/timkuijsten"
+  },
+  "license": "MIT",
+  "description": "Check if all given criteria hold on the given object",
+  "keywords": [
+    "match",
+    "object"
+  ],
+  "main": "index.js",
+  "bugs": "https://github.com/timkuijsten/node-match-object/issues",
+  "devDependencies": {
+    "nest-namespace": "~0.0.2"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/timkuijsten/node-match-object.git"
+  }
+}
